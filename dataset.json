@@ -1,0 +1,1861 @@
+{
+    "train": [
+        {
+            "file_name": "fast_002_0226_Ch1_seg03.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch1_seg04.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch1_seg05.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch1_seg06.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch2_seg03.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch2_seg04.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch2_seg05.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch2_seg06.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch3_seg03.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch3_seg04.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch3_seg05.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch3_seg06.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch4_seg03.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch4_seg04.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch4_seg05.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch4_seg06.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch5_seg03.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch5_seg04.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch5_seg05.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch5_seg06.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch6_seg03.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch6_seg04.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch6_seg05.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_002_0226_Ch6_seg06.mat",
+            "label": 0,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "fast_003_0226_Ch1_seg03.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_003_0226_Ch1_seg04.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_003_0226_Ch1_seg05.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_003_0226_Ch2_seg03.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_003_0226_Ch2_seg04.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_003_0226_Ch2_seg05.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_003_0226_Ch3_seg03.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_003_0226_Ch3_seg04.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_003_0226_Ch3_seg05.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_003_0226_Ch4_seg03.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_003_0226_Ch4_seg04.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_003_0226_Ch4_seg05.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_003_0226_Ch5_seg03.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_003_0226_Ch5_seg04.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_003_0226_Ch5_seg05.mat",
+            "label": 0,
+            "rat_id": "003"
+        },
+        {
+            "file_name": "fast_004_0226_Ch1_seg03.mat",
+            "label": 0,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "fast_004_0226_Ch1_seg04.mat",
+            "label": 0,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "fast_004_0226_Ch1_seg05.mat",
+            "label": 0,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "fast_004_0226_Ch2_seg03.mat",
+            "label": 0,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "fast_004_0226_Ch2_seg04.mat",
+            "label": 0,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "fast_004_0226_Ch2_seg05.mat",
+            "label": 0,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "fast_004_0226_Ch3_seg03.mat",
+            "label": 0,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "fast_004_0226_Ch3_seg04.mat",
+            "label": 0,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "fast_004_0226_Ch3_seg05.mat",
+            "label": 0,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "fast_004_0226_Ch4_seg03.mat",
+            "label": 0,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "fast_004_0226_Ch4_seg04.mat",
+            "label": 0,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "fast_004_0226_Ch4_seg05.mat",
+            "label": 0,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "fast_005_0226_Ch1_seg03.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch1_seg04.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch1_seg05.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch2_seg03.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch2_seg04.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch2_seg05.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch3_seg03.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch3_seg04.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch3_seg05.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch4_seg03.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch4_seg04.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch4_seg05.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch5_seg03.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch5_seg04.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch5_seg05.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch6_seg03.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch6_seg04.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_005_0226_Ch6_seg05.mat",
+            "label": 0,
+            "rat_id": "005"
+        },
+        {
+            "file_name": "fast_006_0226_Ch1_seg03.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch1_seg04.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch1_seg05.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch2_seg03.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch2_seg04.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch2_seg05.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch3_seg03.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch3_seg04.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch3_seg05.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch4_seg03.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch4_seg04.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch4_seg05.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch5_seg03.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch5_seg04.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch5_seg05.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch6_seg03.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch6_seg04.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_006_0226_Ch6_seg05.mat",
+            "label": 0,
+            "rat_id": "006"
+        },
+        {
+            "file_name": "fast_007_0226_Ch1_seg03.mat",
+            "label": 0,
+            "rat_id": "007"
+        },
+        {
+            "file_name": "fast_007_0226_Ch1_seg04.mat",
+            "label": 0,
+            "rat_id": "007"
+        },
+        {
+            "file_name": "fast_007_0226_Ch2_seg03.mat",
+            "label": 0,
+            "rat_id": "007"
+        },
+        {
+            "file_name": "fast_007_0226_Ch2_seg04.mat",
+            "label": 0,
+            "rat_id": "007"
+        },
+        {
+            "file_name": "fast_007_0226_Ch3_seg03.mat",
+            "label": 0,
+            "rat_id": "007"
+        },
+        {
+            "file_name": "fast_007_0226_Ch3_seg04.mat",
+            "label": 0,
+            "rat_id": "007"
+        },
+        {
+            "file_name": "fast_007_0226_Ch4_seg03.mat",
+            "label": 0,
+            "rat_id": "007"
+        },
+        {
+            "file_name": "fast_007_0226_Ch4_seg04.mat",
+            "label": 0,
+            "rat_id": "007"
+        },
+        {
+            "file_name": "fast_008_0226_Ch1_seg03.mat",
+            "label": 0,
+            "rat_id": "008"
+        },
+        {
+            "file_name": "fast_008_0226_Ch1_seg04.mat",
+            "label": 0,
+            "rat_id": "008"
+        },
+        {
+            "file_name": "fast_008_0226_Ch1_seg05.mat",
+            "label": 0,
+            "rat_id": "008"
+        },
+        {
+            "file_name": "fast_008_0226_Ch2_seg03.mat",
+            "label": 0,
+            "rat_id": "008"
+        },
+        {
+            "file_name": "fast_008_0226_Ch2_seg04.mat",
+            "label": 0,
+            "rat_id": "008"
+        },
+        {
+            "file_name": "fast_008_0226_Ch2_seg05.mat",
+            "label": 0,
+            "rat_id": "008"
+        },
+        {
+            "file_name": "fast_008_0226_Ch3_seg03.mat",
+            "label": 0,
+            "rat_id": "008"
+        },
+        {
+            "file_name": "fast_008_0226_Ch3_seg04.mat",
+            "label": 0,
+            "rat_id": "008"
+        },
+        {
+            "file_name": "fast_008_0226_Ch3_seg05.mat",
+            "label": 0,
+            "rat_id": "008"
+        },
+        {
+            "file_name": "fast_008_0226_Ch4_seg03.mat",
+            "label": 0,
+            "rat_id": "008"
+        },
+        {
+            "file_name": "fast_008_0226_Ch4_seg04.mat",
+            "label": 0,
+            "rat_id": "008"
+        },
+        {
+            "file_name": "fast_008_0226_Ch4_seg05.mat",
+            "label": 0,
+            "rat_id": "008"
+        },
+        {
+            "file_name": "fast_009_0226_Ch1_seg03.mat",
+            "label": 0,
+            "rat_id": "009"
+        },
+        {
+            "file_name": "fast_009_0226_Ch1_seg04.mat",
+            "label": 0,
+            "rat_id": "009"
+        },
+        {
+            "file_name": "fast_009_0226_Ch1_seg05.mat",
+            "label": 0,
+            "rat_id": "009"
+        },
+        {
+            "file_name": "fast_009_0226_Ch2_seg03.mat",
+            "label": 0,
+            "rat_id": "009"
+        },
+        {
+            "file_name": "fast_009_0226_Ch2_seg04.mat",
+            "label": 0,
+            "rat_id": "009"
+        },
+        {
+            "file_name": "fast_009_0226_Ch2_seg05.mat",
+            "label": 0,
+            "rat_id": "009"
+        },
+        {
+            "file_name": "fast_009_0226_Ch3_seg03.mat",
+            "label": 0,
+            "rat_id": "009"
+        },
+        {
+            "file_name": "fast_009_0226_Ch3_seg04.mat",
+            "label": 0,
+            "rat_id": "009"
+        },
+        {
+            "file_name": "fast_009_0226_Ch3_seg05.mat",
+            "label": 0,
+            "rat_id": "009"
+        },
+        {
+            "file_name": "fast_009_0226_Ch4_seg03.mat",
+            "label": 0,
+            "rat_id": "009"
+        },
+        {
+            "file_name": "fast_009_0226_Ch4_seg04.mat",
+            "label": 0,
+            "rat_id": "009"
+        },
+        {
+            "file_name": "fast_009_0226_Ch4_seg05.mat",
+            "label": 0,
+            "rat_id": "009"
+        },
+        {
+            "file_name": "fast_011_0226_Ch1_seg03.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch1_seg04.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch1_seg05.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch1_seg06.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch1_seg07.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch1_seg08.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch1_seg09.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch1_seg10.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch1_seg11.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch1_seg12.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch2_seg03.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch2_seg04.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch2_seg05.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch2_seg06.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch2_seg07.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch2_seg08.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch2_seg09.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch2_seg10.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch2_seg11.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch2_seg12.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch3_seg03.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch3_seg04.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch3_seg05.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch3_seg06.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch3_seg07.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch3_seg08.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch3_seg09.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch3_seg10.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch3_seg11.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch3_seg12.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch4_seg03.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch4_seg04.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch4_seg05.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch4_seg06.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch4_seg07.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch4_seg08.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch4_seg09.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch4_seg10.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch4_seg11.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch4_seg12.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch5_seg03.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch5_seg04.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch5_seg05.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch5_seg06.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch5_seg07.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch5_seg08.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch5_seg09.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch5_seg10.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch5_seg11.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch5_seg12.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch6_seg03.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch6_seg04.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch6_seg05.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch6_seg06.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch6_seg07.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch6_seg08.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch6_seg09.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch6_seg10.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch6_seg11.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_011_0226_Ch6_seg12.mat",
+            "label": 0,
+            "rat_id": "011"
+        },
+        {
+            "file_name": "fast_014_0226_Ch1_seg03.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch1_seg04.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch1_seg05.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch1_seg06.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch1_seg07.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch1_seg08.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch1_seg09.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch1_seg10.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch1_seg11.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch1_seg12.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch2_seg03.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch2_seg04.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch2_seg05.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch2_seg06.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch2_seg07.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch2_seg08.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch2_seg09.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch2_seg10.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch2_seg11.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch2_seg12.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch3_seg03.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch3_seg04.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch3_seg05.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch3_seg06.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch3_seg07.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch3_seg08.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch3_seg09.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch3_seg10.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch3_seg11.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch3_seg12.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch4_seg03.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch4_seg04.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch4_seg05.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch4_seg06.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch4_seg07.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch4_seg08.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch4_seg09.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch4_seg10.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch4_seg11.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch4_seg12.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch5_seg03.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch5_seg04.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch5_seg05.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch5_seg06.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch5_seg07.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch5_seg08.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch5_seg09.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch5_seg10.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch5_seg11.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch5_seg12.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch6_seg03.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch6_seg04.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch6_seg05.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch6_seg06.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch6_seg07.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch6_seg08.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch6_seg09.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch6_seg10.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch6_seg11.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_014_0226_Ch6_seg12.mat",
+            "label": 0,
+            "rat_id": "014"
+        },
+        {
+            "file_name": "fast_018_0226_Ch1_seg03.mat",
+            "label": 0,
+            "rat_id": "018"
+        },
+        {
+            "file_name": "fast_018_0226_Ch1_seg04.mat",
+            "label": 0,
+            "rat_id": "018"
+        },
+        {
+            "file_name": "fast_018_0226_Ch2_seg03.mat",
+            "label": 0,
+            "rat_id": "018"
+        },
+        {
+            "file_name": "fast_018_0226_Ch2_seg04.mat",
+            "label": 0,
+            "rat_id": "018"
+        },
+        {
+            "file_name": "fast_018_0226_Ch3_seg03.mat",
+            "label": 0,
+            "rat_id": "018"
+        },
+        {
+            "file_name": "fast_018_0226_Ch3_seg04.mat",
+            "label": 0,
+            "rat_id": "018"
+        },
+        {
+            "file_name": "fast_018_0226_Ch4_seg03.mat",
+            "label": 0,
+            "rat_id": "018"
+        },
+        {
+            "file_name": "fast_018_0226_Ch4_seg04.mat",
+            "label": 0,
+            "rat_id": "018"
+        },
+        {
+            "file_name": "fast_018_0226_Ch5_seg03.mat",
+            "label": 0,
+            "rat_id": "018"
+        },
+        {
+            "file_name": "fast_018_0226_Ch5_seg04.mat",
+            "label": 0,
+            "rat_id": "018"
+        },
+        {
+            "file_name": "fast_018_0226_Ch6_seg03.mat",
+            "label": 0,
+            "rat_id": "018"
+        },
+        {
+            "file_name": "fast_018_0226_Ch6_seg04.mat",
+            "label": 0,
+            "rat_id": "018"
+        },
+        {
+            "file_name": "postprandial_002_0226_Ch1_seg03.mat",
+            "label": 1,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "postprandial_002_0226_Ch1_seg04.mat",
+            "label": 1,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "postprandial_002_0226_Ch1_seg05.mat",
+            "label": 1,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "postprandial_002_0226_Ch2_seg03.mat",
+            "label": 1,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "postprandial_002_0226_Ch2_seg04.mat",
+            "label": 1,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "postprandial_002_0226_Ch2_seg05.mat",
+            "label": 1,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "postprandial_002_0226_Ch3_seg03.mat",
+            "label": 1,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "postprandial_002_0226_Ch3_seg04.mat",
+            "label": 1,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "postprandial_002_0226_Ch3_seg05.mat",
+            "label": 1,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "postprandial_002_0226_Ch4_seg03.mat",
+            "label": 1,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "postprandial_002_0226_Ch4_seg04.mat",
+            "label": 1,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "postprandial_002_0226_Ch4_seg05.mat",
+            "label": 1,
+            "rat_id": "002"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch1_seg03.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch1_seg04.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch1_seg05.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch2_seg03.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch2_seg04.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch2_seg05.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch3_seg03.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch3_seg04.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch3_seg05.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch4_seg03.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch4_seg04.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch4_seg05.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch5_seg03.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch5_seg04.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch5_seg05.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch6_seg03.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch6_seg04.mat",
+            "label": 1,
+            "rat_id": "004"
+        },
+        {
+            "file_name": "postprandial_004_0226_Ch6_seg05.mat",
+            "label": 1,
+            "rat_id": "004"
+        }
+    ],
+    "test": [
+        {
+            "file_name": "fast_001_0226_Ch1_seg03.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch1_seg04.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch1_seg05.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch1_seg06.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch1_seg07.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch2_seg03.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch2_seg04.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch2_seg05.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch2_seg06.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch2_seg07.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch3_seg03.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch3_seg04.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch3_seg05.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch3_seg06.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch3_seg07.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch4_seg03.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch4_seg04.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch4_seg05.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch4_seg06.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch4_seg07.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch5_seg03.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch5_seg04.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch5_seg05.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch5_seg06.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch5_seg07.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch6_seg03.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch6_seg04.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch6_seg05.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch6_seg06.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_001_0226_Ch6_seg07.mat",
+            "label": 0,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "fast_010_0226_Ch1_seg03.mat",
+            "label": 0,
+            "rat_id": "010"
+        },
+        {
+            "file_name": "fast_010_0226_Ch1_seg04.mat",
+            "label": 0,
+            "rat_id": "010"
+        },
+        {
+            "file_name": "fast_010_0226_Ch1_seg05.mat",
+            "label": 0,
+            "rat_id": "010"
+        },
+        {
+            "file_name": "fast_010_0226_Ch2_seg03.mat",
+            "label": 0,
+            "rat_id": "010"
+        },
+        {
+            "file_name": "fast_010_0226_Ch2_seg04.mat",
+            "label": 0,
+            "rat_id": "010"
+        },
+        {
+            "file_name": "fast_010_0226_Ch2_seg05.mat",
+            "label": 0,
+            "rat_id": "010"
+        },
+        {
+            "file_name": "fast_010_0226_Ch3_seg03.mat",
+            "label": 0,
+            "rat_id": "010"
+        },
+        {
+            "file_name": "fast_010_0226_Ch3_seg04.mat",
+            "label": 0,
+            "rat_id": "010"
+        },
+        {
+            "file_name": "fast_010_0226_Ch3_seg05.mat",
+            "label": 0,
+            "rat_id": "010"
+        },
+        {
+            "file_name": "fast_013_0226_Ch1_seg03.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch1_seg04.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch1_seg05.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch1_seg06.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch1_seg07.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch1_seg08.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch1_seg09.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch2_seg03.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch2_seg04.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch2_seg05.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch2_seg06.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch2_seg07.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch2_seg08.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch2_seg09.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch3_seg03.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch3_seg04.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch3_seg05.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch3_seg06.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch3_seg07.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch3_seg08.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch3_seg09.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch4_seg03.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch4_seg04.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch4_seg05.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch4_seg06.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch4_seg07.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch4_seg08.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch4_seg09.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch5_seg03.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch5_seg04.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch5_seg05.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch5_seg06.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch5_seg07.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch5_seg08.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch5_seg09.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch6_seg03.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch6_seg04.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch6_seg05.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch6_seg06.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch6_seg07.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch6_seg08.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "fast_013_0226_Ch6_seg09.mat",
+            "label": 0,
+            "rat_id": "013"
+        },
+        {
+            "file_name": "postprandial_001_0226_Ch1_seg03.mat",
+            "label": 1,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "postprandial_001_0226_Ch1_seg04.mat",
+            "label": 1,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "postprandial_001_0226_Ch1_seg05.mat",
+            "label": 1,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "postprandial_001_0226_Ch2_seg03.mat",
+            "label": 1,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "postprandial_001_0226_Ch2_seg04.mat",
+            "label": 1,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "postprandial_001_0226_Ch2_seg05.mat",
+            "label": 1,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "postprandial_001_0226_Ch3_seg03.mat",
+            "label": 1,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "postprandial_001_0226_Ch3_seg04.mat",
+            "label": 1,
+            "rat_id": "001"
+        },
+        {
+            "file_name": "postprandial_001_0226_Ch3_seg05.mat",
+            "label": 1,
+            "rat_id": "001"
+        }
+    ]
+}
