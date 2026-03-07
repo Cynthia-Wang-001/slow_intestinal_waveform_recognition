@@ -1,5 +1,7 @@
 import json
 import torch
+import numpy as np
+import random
 import torch.nn as nn
 import torch.optim as optim
 from torch.utils.data import DataLoader
@@ -16,19 +18,18 @@ DATA_DIR = "/Users/cynthiawang/Desktop/GI_lab/data_sync/data_segmented"
 JSON_PATH = "/Users/cynthiawang/Desktop/GI_lab/data_sync/data_segmented/dataset.json"
 WINDOW_SIZE = 6000
 BATCH_SIZE = 16
-EPOCHS = 20
-LEARNING_RATE = 5e-6
+EPOCHS = 25
+LEARNING_RATE = 1e-5
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "mps" if torch.backends.mps.is_available() else "cpu")
 SAVE_PATH = "best_slow_wave_model.pth"
-
 
 def train_one_epoch(model, dataloader, criterion, optimizer, device):
     model.train()
     running_loss, correct, total = 0.0, 0, 0
-    for signals, labels in dataloader:
-        signals, labels = signals.to(device), labels.to(device)
+    for signals, features, labels in dataloader: #0306 add features
+        signals, features, labels = signals.to(device), features.to(device), labels.to(device)
         optimizer.zero_grad()
-        outputs = model(signals)
+        outputs = model(signals,features)
         loss = criterion(outputs, labels)
         loss.backward()
         #add gradient clipping for noise reduction!
@@ -47,9 +48,9 @@ def validate(model, dataloader, criterion, device):
     running_loss, correct, total = 0.0, 0, 0
     all_preds, all_labels = [], []
     with torch.no_grad():
-        for signals, labels in dataloader:
-            signals, labels = signals.to(device), labels.to(device)
-            outputs = model(signals)
+        for signals, features,labels in dataloader:
+            signals, features,labels = signals.to(device), features.to(device),labels.to(device)
+            outputs = model(signals,features)
             loss = criterion(outputs, labels)
             running_loss += loss.item() * signals.size(0)
             _, predicted = torch.max(outputs, 1)
@@ -64,9 +65,16 @@ def main():
     with open(JSON_PATH, 'r') as f:
         data_info = json.load(f)
 
-    # Fast:590  Postprandial:132
-    # give postprandial higher weight
-    weights = torch.tensor([1.0, 1.5],dtype=torch.float).to(DEVICE)
+
+    # def set_seed(seed=20):
+    #     random.seed(seed)
+    #     np.random.seed(seed)
+    #     torch.manual_seed(seed)
+    #     torch.cuda.manual_seed_all(seed)
+    #
+    # set_seed(20)
+
+    weights = torch.tensor([1.0, 1.6],dtype=torch.float).to(DEVICE)
     train_criterion = nn.CrossEntropyLoss(weight=weights)
     val_criterion = nn.CrossEntropyLoss()
 
