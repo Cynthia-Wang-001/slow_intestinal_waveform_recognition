@@ -1,0 +1,111 @@
+% % Configuration
+% target_dir = 'N:\matlab_for_gi\data_edited';
+% suffix = '_0226';
+% keywords = {'fast', 'postprandial'};
+% 
+% % Initialize counters and log
+% file_list = dir(target_dir);
+% file_list = file_list(~[file_list.isdir]); % Filter out directories
+% rename_log = struct('OldName', {}, 'NewName', {});
+% 
+% % Counters for each keyword
+% counters = containers.Map(keywords, [1, 1]);
+% 
+% fprintf('--- Renaming Process Started ---\n');
+% 
+% for i = 1:length(file_list)
+%     old_full_name = file_list(i).name;
+%     [~, ~, ext] = fileparts(old_full_name);
+%     lower_name = lower(old_full_name);
+% 
+%     match_found = false;
+%     for k = 1:length(keywords)
+%         key = keywords{k};
+% 
+%         if contains(lower_name, key)
+%             % Generate new name with 3-digit padding
+%             idx = counters(key);
+%             new_base_name = sprintf('%s_%03d%s', key, idx, suffix);
+%             new_full_name = [new_base_name, ext];
+% 
+%             % Execute rename
+%             movefile(fullfile(target_dir, old_full_name), ...
+%                      fullfile(target_dir, new_full_name));
+% 
+%             % Update log and counters
+%             rename_log(end+1).OldName = old_full_name;
+%             rename_log(end).NewName = new_full_name;
+%             counters(key) = idx + 1;
+% 
+%             % Print result
+%             fprintf('%s -> %s\n', old_full_name, new_full_name);
+%             match_found = true;
+%             break; 
+%         end
+%     end
+% 
+%     if ~match_found
+%         fprintf('Skipped (no keyword): %s\n', old_full_name);
+%     end
+% end
+% 
+% fprintf('--- Renaming Process Completed ---\n');
+
+
+% Configuration
+target_dir = 'N:\matlab_for_gi\data_edited'; % Update this path if the second folder is different
+suffix = '_0305';
+keywords = {'fast', 'postprandial', 'postpradial'};
+
+% Initialize counters with specific starting values
+% fast starts at 11, postprandial/postpradial starts at 5
+start_values = [11, 5, 5]; 
+counters = containers.Map(keywords, start_values);
+
+% Initialize file list and log
+file_list = dir(target_dir);
+file_list = file_list(~[file_list.isdir]); 
+rename_log = struct('OldName', {}, 'NewName', {});
+
+fprintf('--- Renaming Process Started (Custom Start) ---\n');
+
+for i = 1:length(file_list)
+    old_full_name = file_list(i).name;
+    [~, ~, ext] = fileparts(old_full_name);
+    lower_name = lower(old_full_name);
+    
+    match_found = false;
+    for k = 1:length(keywords)
+        key = keywords{k};
+        
+        if contains(lower_name, key)
+            idx = counters(key);
+            
+            % Use the standard 'postprandial' label even if 'postpradial' was found
+            label = key;
+            if strcmp(key, 'postpradial')
+                label = 'postprandial';
+            end
+            
+            new_base_name = sprintf('%s_%03d%s', label, idx, suffix);
+            new_full_name = [new_base_name, ext];
+            
+            % File operation
+            movefile(fullfile(target_dir, old_full_name), ...
+                     fullfile(target_dir, new_full_name));
+            
+            % Logging
+            rename_log(end+1).OldName = old_full_name;
+            rename_log(end).NewName = new_full_name;
+            
+            % Increment specific counter
+            counters(key) = idx + 1;
+            
+            fprintf('%s -> %s\n', old_full_name, new_full_name);
+            match_found = true;
+            break; 
+        end
+    end
+end
+
+fprintf('--- Renaming Process Completed ---\n');
